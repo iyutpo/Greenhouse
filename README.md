@@ -7,3 +7,7 @@
 # Note:
 Github doesn't support interactive map. But you can do this in your local jupyter notebook.
 Good luck!
+
+![alt text](https://github.com/iyutpo/Greenhouse/blob/master/map.png)
+
+![alt text](https://github.com/iyutpo/Greenhouse/blob/master/map1.png)
